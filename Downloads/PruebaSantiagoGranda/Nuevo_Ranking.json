@@ -1,0 +1,431 @@
+[
+  {
+    "codigo_pais": "19",
+    "nombre_pais": " Hungría",
+    "Jugadores": [
+      [
+        "Sándor Kocsis",
+        "11",
+        1
+      ]
+    ]
+  },
+  {
+    "codigo_pais": "2",
+    "nombre_pais": " Alemania Federal",
+    "Jugadores": [
+      [
+        "Gerd Müller",
+        "23",
+        2
+      ]
+    ]
+  },
+  {
+    "codigo_pais": "26",
+    "nombre_pais": " Japón",
+    "Jugadores": [
+      [
+        "Kunishige Kamamoto",
+        "12",
+        3
+      ]
+    ]
+  },
+  {
+    "codigo_pais": "20",
+    "nombre_pais": " Hungría/ España",
+    "Jugadores": [
+      [
+        "Ferenc Puskás",
+        "4",
+        4
+      ]
+    ]
+  },
+  {
+    "codigo_pais": "16",
+    "nombre_pais": " Federación Malaya/ Malasia",
+    "Jugadores": [
+      [
+        "Abdul Ghani Minhat",
+        "34",
+        5
+      ]
+    ]
+  },
+  {
+    "codigo_pais": "8",
+    "nombre_pais": " Brasil",
+    "Jugadores": [
+      [
+        "Pelé",
+        "10",
+        6
+      ]
+    ]
+  },
+  {
+    "codigo_pais": "13",
+    "nombre_pais": " Emiratos Arabes Unidos",
+    "Jugadores": [
+      [
+        "Ali Mabkhout",
+        "7",
+        7
+      ]
+    ]
+  },
+  {
+    "codigo_pais": "24",
+    "nombre_pais": " Irán",
+    "Jugadores": [
+      [
+        "Ali Daei",
+        "2",
+        8
+      ]
+    ]
+  },
+  {
+    "codigo_pais": "39",
+    "nombre_pais": " Zambia",
+    "Jugadores": [
+      [
+        "Godfrey Chitalu",
+        "8",
+        9
+      ]
+    ]
+  },
+  {
+    "codigo_pais": "6",
+    "nombre_pais": " Bélgica",
+    "Jugadores": [
+      [
+        "Romelu Lukaku",
+        "24",
+        10
+      ]
+    ]
+  },
+  {
+    "codigo_pais": "30",
+    "nombre_pais": " Maldivas",
+    "Jugadores": [
+      [
+        "Ali Ashfaq",
+        "39",
+        11
+      ]
+    ]
+  },
+  {
+    "codigo_pais": "21",
+    "nombre_pais": " India",
+    "Jugadores": [
+      [
+        "Sunil Chhetri",
+        "6",
+        12
+      ]
+    ]
+  },
+  {
+    "codigo_pais": "22",
+    "nombre_pais": " Indonesia",
+    "Jugadores": [
+      [
+        "Abdul Kadir",
+        "20",
+        13
+      ]
+    ]
+  },
+  {
+    "codigo_pais": "28",
+    "nombre_pais": " Malasia",
+    "Jugadores": [
+      [
+        "Mokhtar Dahari",
+        "3",
+        14
+      ]
+    ]
+  },
+  {
+    "codigo_pais": "32",
+    "nombre_pais": " Portugal",
+    "Jugadores": [
+      [
+        "Cristiano Ronaldo",
+        "1",
+        15
+      ]
+    ]
+  },
+  {
+    "codigo_pais": "11",
+    "nombre_pais": " Costa de Marfil",
+    "Jugadores": [
+      [
+        "Didier Drogba",
+        "29",
+        16
+      ]
+    ]
+  },
+  {
+    "codigo_pais": "4",
+    "nombre_pais": " Arabia Saudita",
+    "Jugadores": [
+      [
+        "Majed Abdullah",
+        "15",
+        17
+      ]
+    ]
+  },
+  {
+    "codigo_pais": "37",
+    "nombre_pais": " Trinidad y Tobago",
+    "Jugadores": [
+      [
+        "Stern John",
+        "21",
+        18
+      ]
+    ]
+  },
+  {
+    "codigo_pais": "29",
+    "nombre_pais": " Malawi",
+    "Jugadores": [
+      [
+        "Kinnah Phiri",
+        "16",
+        19
+      ]
+    ]
+  },
+  {
+    "codigo_pais": "33",
+    "nombre_pais": " República Checa",
+    "Jugadores": [
+      [
+        "Jan Koller",
+        "47",
+        20
+      ]
+    ]
+  },
+  {
+    "codigo_pais": "14",
+    "nombre_pais": " España",
+    "Jugadores": [
+      [
+        "David Villa",
+        "37",
+        21
+      ]
+    ]
+  },
+  {
+    "codigo_pais": "31",
+    "nombre_pais": " Polonia",
+    "Jugadores": [
+      [
+        "Robert Lewandowski",
+        "14",
+        22
+      ]
+    ]
+  },
+  {
+    "codigo_pais": "23",
+    "nombre_pais": " Irak",
+    "Jugadores": [
+      [
+        "Hussein Saeed",
+        "9",
+        23
+      ]
+    ]
+  },
+  {
+    "codigo_pais": "18",
+    "nombre_pais": " Honduras",
+    "Jugadores": [
+      [
+        "Carlos Pavón",
+        "40",
+        24
+      ]
+    ]
+  },
+  {
+    "codigo_pais": "27",
+    "nombre_pais": " Kuwait",
+    "Jugadores": [
+      [
+        "Bashar Abdullah",
+        "13",
+        25
+      ]
+    ]
+  },
+  {
+    "codigo_pais": "34",
+    "nombre_pais": " Singapur",
+    "Jugadores": [
+      [
+        "Fandi Ahmad",
+        "49",
+        26
+      ]
+    ]
+  },
+  {
+    "codigo_pais": "3",
+    "nombre_pais": " Alemania Oriental",
+    "Jugadores": [
+      [
+        "Joachim Streich",
+        "50",
+        27
+      ]
+    ]
+  },
+  {
+    "codigo_pais": "36",
+    "nombre_pais": " Tailandia",
+    "Jugadores": [
+      [
+        "Kiatisuk Senamuang",
+        "17",
+        28
+      ]
+    ]
+  },
+  {
+    "codigo_pais": "1",
+    "nombre_pais": " Alemania",
+    "Jugadores": [
+      [
+        "Miroslav Klose",
+        "18",
+        29
+      ]
+    ]
+  },
+  {
+    "codigo_pais": "35",
+    "nombre_pais": " Suecia",
+    "Jugadores": [
+      [
+        "Zlatan Ibrahimović",
+        "32",
+        30
+      ]
+    ]
+  },
+  {
+    "codigo_pais": "38",
+    "nombre_pais": " Uruguay",
+    "Jugadores": [
+      [
+        "Luis Suárez",
+        "28",
+        31
+      ]
+    ]
+  },
+  {
+    "codigo_pais": "5",
+    "nombre_pais": " Argentina",
+    "Jugadores": [
+      [
+        "Lionel Messi",
+        "5",
+        32
+      ]
+    ]
+  },
+  {
+    "codigo_pais": "17",
+    "nombre_pais": " Guatemala",
+    "Jugadores": [
+      [
+        "Carlos Ruiz Gutiérrez",
+        "25",
+        33
+      ]
+    ]
+  },
+  {
+    "codigo_pais": "7",
+    "nombre_pais": " Bosnia y Herzegovina",
+    "Jugadores": [
+      [
+        "Edin Džeko",
+        "35",
+        34
+      ]
+    ]
+  },
+  {
+    "codigo_pais": "9",
+    "nombre_pais": " Camerún",
+    "Jugadores": [
+      [
+        "Samuel Eto'o",
+        "44",
+        35
+      ]
+    ]
+  },
+  {
+    "codigo_pais": "25",
+    "nombre_pais": " Irlanda",
+    "Jugadores": [
+      [
+        "Robbie Keane",
+        "26",
+        36
+      ]
+    ]
+  },
+  {
+    "codigo_pais": "10",
+    "nombre_pais": " Corea del Sur",
+    "Jugadores": [
+      [
+        "Cha Bum-Kun",
+        "38",
+        37
+      ]
+    ]
+  },
+  {
+    "codigo_pais": "15",
+    "nombre_pais": " Estados Unidos",
+    "Jugadores": [
+      [
+        "Clint Dempsey",
+        "41",
+        38
+      ]
+    ]
+  },
+  {
+    "codigo_pais": "12",
+    "nombre_pais": " Egipto",
+    "Jugadores": [
+      [
+        "Hossam Hassan",
+        "27",
+        39
+      ]
+    ]
+  }
+]
